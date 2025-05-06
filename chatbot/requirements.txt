@@ -1,0 +1,10 @@
+Flask
+gunicorn
+langchain
+huggingface_hub
+faiss-cpu
+requests
+openrouter
+python-dotenv
+langchain_community
+sentence-transformers
