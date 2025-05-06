@@ -7,3 +7,4 @@ openrouter
 python-dotenv
 langchain_community
 sentence-transformers
+gunicorn
